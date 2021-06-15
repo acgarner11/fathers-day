@@ -22,14 +22,18 @@ get_header(); ?>
      ">
 
         <div class="content-middle text-white text-center">
-            <h1 class="text-6xl mb-5"><span class="hidden md:inline">~</span> Happy Father's Day <span class="hidden md:inline">~</span></h1>
-            <h1 class="text-2xl mb-5"><span class="hidden md:inline">~</span> From Foothills Church <span class="hidden md:inline">~</span></h1>
+            <h1 class="text-6xl mb-5"><span class="hidden md:inline">~</span> Happy Father's Day <span
+                        class="hidden md:inline">~</span></h1>
+            <h2 class="text-2xl mb-5"><span class="hidden md:inline">~</span> From Foothills Church <span
+                        class="hidden md:inline">~</span></h2>
 
         </div>
     </div>
-    <div>
-        <p class="text-center">THANK YOU FOR CELEBRATING MOTHER'S DAY WITH US!</p>
-
+    <div class="md:mx-40 mx-5 pt-5">
+        <div class="pb-5">
+            <h2 class="text-center text-lg md:text-2xl  pb-3">THANK YOU FOR CELEBRATING MOTHER'S DAY WITH US!</h2>
+            <p class="text-sm">We’re so thankful for all of the moms that make Foothills Church such a special place. We hope that you feel appreciated for all that you do, and know that you are loved!</p>
+        </div>
     </div>
 
 
