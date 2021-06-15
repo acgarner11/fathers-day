@@ -29,11 +29,38 @@ get_header(); ?>
 
         </div>
     </div>
-    <div class="md:mx-40 mx-5 pt-5">
-        <div class="pb-5">
-            <h2 class="text-center text-lg md:text-2xl  pb-3">THANK YOU FOR CELEBRATING MOTHER'S DAY WITH US!</h2>
-            <p class="text-sm">We’re so thankful for all of the moms that make Foothills Church such a special place. We hope that you feel appreciated for all that you do, and know that you are loved!</p>
+    <div class="md:mx-40 mx-5 pt-5 grid grid-cols-12">
+        <div class="md:pb-10 pb-5 col-span-12 ">
+            <h2 class="text-center text-lg md:text-2xl pb-3 ">THANK YOU FOR CELEBRATING MOTHER'S DAY WITH US!</h2>
+            <p class="text-sm pb-4">We’re so thankful for all of the moms that make Foothills Church such a special
+                place. We hope that you feel appreciated for all that you do, and know that you are loved!</p>
+            <hr>
         </div>
+        <div class="col-span-12 pb-3">
+            <h2 class="text-center text-lg md:text-2xl">HOW TO ACCESS YOUR PHOTOS</h2>
+        </div>
+        <div class="col-span-12 md:col-span-4 p-5">
+            <p class="text-center text-4xl p-3">1</p>
+            <hr class="pb-3">
+            <h3 class="text-center font-bold md:pb-2">SELECT YOUR SERVICE</h3>
+            <p class="text-sm text-center md:text-left">Click the tabs below to filter what service you had your photo taken at.</p>
+        </div>
+
+        <div class="col-span-12 md:col-span-4 p-5">
+            <p class="text-center text-4xl p-3">2</p>
+            <hr class="pb-3">
+            <h3 class="text-center font-bold md:pb-2">DOWNLOAD YOUR PHOTOS</h3>
+            <p class="text-sm text-center md:text-left">Find your photo from the list below and click the download button!</p>
+        </div>
+
+        <div class="col-span-12 md:col-span-4 p-5">
+            <p class="text-center text-4xl p-3">3</p>
+            <hr class="pb-3">
+            <h3 class="text-center font-bold md:pb-2">SHARE THEM ON SOCIALS</h3>
+            <p class="text-sm text-center md:text-left">Tag us @foothillschurchtn on Instagram and Facebook!</p>
+        </div>
+
+    </div>
     </div>
 
 
